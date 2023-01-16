@@ -15,8 +15,8 @@ body {
   .description {
     white-space: pre-wrap;
   }
-  
-  .time-block {
+ 
+  #time-period {
     border-radius: 15px;
   }
   
