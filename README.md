@@ -33,17 +33,19 @@ We were given starter code for this website and the task to update the HTML, CSS
 
 The time and day was set in the header using Day.js for you to reference when completing your planner.
 
-![image](https://user-images.githubusercontent.com/118077000/212990585-d7ef0ab3-80d7-44fd-88a5-d600ef9829d1.png)
+![image](https://user-images.githubusercontent.com/118077000/212991303-7896302b-08ca-417f-8a89-48182a442a14.png)
 
 ![image](https://user-images.githubusercontent.com/118077000/212956958-018a9442-88cf-4768-8713-4056486a9e39.png)
 
 -----
-A function was written for the save button to be able to click and save to local storage. Upon save an alert will
-flash to inform user that event has been saved and 
+A function was written for the save button to be able to click and save to local storage. Also, upon save an alert
+will flash to inform user that event has been saved and 
 
-![image](https://user-images.githubusercontent.com/118077000/212957610-1a2df40e-b6d1-4883-b365-638472f58b4f.png)
+![image](https://user-images.githubusercontent.com/118077000/212990585-d7ef0ab3-80d7-44fd-88a5-d600ef9829d1.png)
 
 ![image](https://user-images.githubusercontent.com/118077000/212958044-b35c5efc-0124-423a-a9c9-9fd3a313cf07.png)
+
+![image](https://user-images.githubusercontent.com/118077000/212991426-dbab8b11-320e-4d3f-a712-dd67de0a07ba.png)
 
 -----
 A loop function was written to loop through hours and update the coloring on each time block every 12 seconds to keep current. Also, getting the saved data in local storage to display on screen even when page is refreshed.
