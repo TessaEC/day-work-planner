@@ -33,12 +33,13 @@ We were given starter code for this website and the task to update the HTML, CSS
 
 The time and day was set in the header using Day.js for you to reference when completing your planner.
 
-![image](https://user-images.githubusercontent.com/118077000/212957026-526ddb20-41e3-42d9-9859-26eb55c8fc25.png)
+![image](https://user-images.githubusercontent.com/118077000/212990585-d7ef0ab3-80d7-44fd-88a5-d600ef9829d1.png)
 
 ![image](https://user-images.githubusercontent.com/118077000/212956958-018a9442-88cf-4768-8713-4056486a9e39.png)
 
 -----
-A function was written for the save button to be able to click and save to local storage.
+A function was written for the save button to be able to click and save to local storage. Upon save an alert will
+flash to inform user that event has been saved and 
 
 ![image](https://user-images.githubusercontent.com/118077000/212957610-1a2df40e-b6d1-4883-b365-638472f58b4f.png)
 
