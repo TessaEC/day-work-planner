@@ -55,4 +55,4 @@ A loop function was written to loop through hours and update the coloring on eac
 
 This website allows you to enter daily plans on a work day basis. The plans are entered into the text area and then saved to local storage. The current day and time is shown at the top of the page and the color coated text fields coincide with the time of day. Past time being gray, present time being red, and future time being green.
 
-Website URL: 
+Website URL: https://tessaec.github.io/day-work-planner/
